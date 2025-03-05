@@ -84,13 +84,11 @@ Status: 201 Created
   "updatedAt": "2023-06-22T14:30:00.000Z"
 }
 ```
-
 ### Retrieving All Categories
 **Request:**
 ```sh
 GET /api/categories
 ```
-
 **Response:**
 ```json
 Status: 200 OK
@@ -118,5 +116,4 @@ To validate API functionality:
 2. Import a pre-configured collection (if available) or manually create requests.
 3. Send requests to the available endpoints.
 4. Check that responses match expected formats and data integrity is maintained.
-
 ---
